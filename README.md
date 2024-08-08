@@ -71,7 +71,7 @@ automated-Housing-Application/
         "postal_code": " ",
         "city": "Jupiter",
         "total_persons": "4"
-    },
+    }
 ]
 ```
    - Create a `links.json` file with the form URLs. You can add as many URL as you need:
