@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Load user details from JSON file
-with open('user_details_1.json', 'r') as file:
+with open('user_details.json', 'r') as file:
     user_details = json.load(file)
 
 # Load links from JSON file
