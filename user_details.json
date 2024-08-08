@@ -1,0 +1,24 @@
+[
+    {
+        "email": "your Email adress1",
+        "first_name": "Name1",
+        "surname": "Surname1",
+        "phone_number": "+4998327492",
+        "street": "Randomstreet",
+        "house_number": " ",
+        "postal_code": " ",
+        "city": "Jupiter",
+        "total_persons": "4"
+    },
+    {
+        "email": "your Email adress2",
+        "first_name": "Name2",
+        "surname": "Surname2",
+        "phone_number": "+499833427492",
+        "street": "Randomstreet2",
+        "house_number": " ",
+        "postal_code": " ",
+        "city": "Jupiter",
+        "total_persons": "4"
+    }
+]
